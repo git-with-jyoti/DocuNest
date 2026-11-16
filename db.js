@@ -1,7 +1,7 @@
 // DocuNest - db.js
 // Everything that talks to IndexedDB.
 
-function openDatabase() {
+function  openDatabase() {
   return new Promise(function (resolve, reject) {
     if (!window.indexedDB) {
       reject(new Error("Your browser does not support IndexedDB."));
