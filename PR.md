@@ -2,11 +2,9 @@
 
 **Project Report**
 
-Submitted by: \[Your Name\]\
-Enrollment No.: \[Your Enrollment Number\]\
-Course: Diploma in Computer Science Engineering\
-Institute: \[Your Institute Name\]\
-Guide: \[Guide Name\]\
+Submitted by: \[Jyoti Pandey and Sakshi Singh\]\
+Course: BCA - 3rd Year\
+Institute: \[JRD State University\]\
 Year: 2026
 
 ## 1. Abstract
